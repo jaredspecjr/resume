@@ -1,0 +1,33 @@
+body {
+  text-align: center;
+  background-color: lightblue;
+  color: black;
+}
+
+.header {
+  color: brown;
+  line-height: 4px;
+}
+
+.sub-header {
+  font-weight: bold;
+}
+
+.education {
+  line-height: 4px;
+}
+
+.education-info {
+  line-height: 19px;
+  margin: 0 auto;
+  width: 40%;
+}
+
+.employment {
+  margin: 0 auto;
+  width: 40%;
+}
+
+.employment h2{
+  line-height: 4px;
+}
